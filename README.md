@@ -97,16 +97,6 @@ Modelos-y-Sistemas-5to-y-7mo/
 
 El repositorio se organiza a partir de los temas señalados por la guía de exposición oral y la guía de exposición con diagramas. Cuando se agregan detalles complementarios, se identifican como ampliación didáctica para reforzar el contenido principal.
 
-## Recomendación para usarlo
-
-Para una presentación oral o para estudiar en forma grupal, conviene:
-
-- comenzar con la definición del tema,
-- estudiar la explicación desarrollada,
-- revisar el ejemplo práctico,
-- analizar el diagrama,
-- cerrar con la conclusión.
-
 ## Conclusión
 
 Este proyecto busca convertir conceptos de Modelos y Sistemas en material claro, ordenado y útil para el aprendizaje. Está pensado como recurso de estudio y apoyo para estudiantes de secundaria, con énfasis en diagramas, ejemplos y organización.
