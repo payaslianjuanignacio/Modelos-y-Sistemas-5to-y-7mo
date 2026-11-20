@@ -50,11 +50,5 @@ erDiagram
     PROFESOR ||--o{ CURSO : dicta
 ```
 
-## 7. Conclusión
-
-El modelo entidad-relación permite entender la lógica detrás de un sistema de información. Es una pieza clave para avanzar hacia diseños más complejos.
-
-## Temas relacionados
-
 - [Diagrama de clases](../diagramas-de-clases/README.md)
 - [5.º año: entidad-relación](../../5to-anio/entidad_relacion/README.md)
