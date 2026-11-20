@@ -6,15 +6,15 @@ Este bloque aborda la parte más técnica de la materia, con mayor enfoque en pr
 
 - [Programación orientada a objetos](./programacion-orientada-a-objetos/README.md)
 - [Entidad-relación](./entidad-relacion/README.md)
-- [Diagramas de clases](./diagramas-de-clases/README.md)
-- [Herencia y ArrayList](./herencia-y-arraylist/README.md)
-- [ABM](./abm/README.md)
-- [Cursogramas](./cursogramas/README.md)
-- [Git y GitHub](./git-y-github/README.md)
-- [Documentación](./documentacion/README.md)
-- [Diagramas de flujo](./diagramas-de-flujo/README.md)
-- [Casos de uso](./casos-de-uso/README.md)
-- [PERT y Gantt](./pert-y-gantt/README.md)
+- [Diagramas de clases]
+- [Herencia y ArrayList]
+- [ABM]
+- [Cursogramas]
+- [Git y GitHub]
+- [Documentación]
+- [Diagramas de flujo]
+- [Casos de uso]
+- [PERT y Gantt]
 
 ## Objetivo general
 
